@@ -1,0 +1,30 @@
+{
+  "name": "public-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swistikkk/my-public-examples-of-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swistikkk/my-public-examples-of-code/issues"
+  },
+  "homepage": "https://github.com/Swistikkk/my-public-examples-of-code#readme",
+  "devDependencies": {
+    "@types/node": "^18.13.0",
+    "@types/webpack": "^5.28.0",
+    "html-webpack-plugin": "^5.5.0",
+    "ts-loader": "^9.4.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
